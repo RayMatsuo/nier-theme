@@ -169,3 +169,8 @@ date 21/08/2025
 ## 0.1.16
 date 29/08/2025
 - Small color fix for the bottom menu on mobile devices.
+
+## 0.1.17
+date 14/01/2026
+- Colors fixed after 1.11 update on phone/tablet/computer.
+- UI tweak after 1.11 to keep a good readability on phone/tablet/computer.
