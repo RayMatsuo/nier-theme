@@ -174,3 +174,7 @@ date 29/08/2025
 date 14/01/2026
 - Colors fixed after 1.11 update on phone/tablet/computer.
 - UI tweak after 1.11 to keep a good readability on phone/tablet/computer.
+
+## 0.1.18
+date 31/07/2026
+- Text colors fix for code[class*="language-"], pre[class*="language-"]
