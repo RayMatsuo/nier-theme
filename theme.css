@@ -1071,3 +1071,141 @@ body.is-focused .mod-active .workspace-tab-header-container .workspace-tab-heade
 .nav-buttons-container .nav-action-button.is-active {
    color: var(--background-secondary-alt);
 }
+
+
+/** Added changes for mobile */
+/*section header 1*/
+.HyperMD-header-1,
+h1,
+h1,
+.markdown-rendered h1 {
+
+  text-shadow: none !important;
+  font-size: 25px !important;
+  letter-spacing: 0rem !important;
+
+}
+
+/*section header 2*/
+.HyperMD-header-2,
+h2,
+h2,
+.markdown-rendered h2 {
+
+  text-shadow: none !important;
+  letter-spacing: 0rem !important;
+
+}
+
+/*section header 3*/
+.HyperMD-header-3,
+h3,
+h3,
+.markdown-rendered h3 {
+
+  text-shadow: none !important;
+  letter-spacing: 0rem !important;
+}
+
+/*section header 4*/
+.HyperMD-header-4,
+h4,
+h4,
+.markdown-rendered h4 {
+
+  text-shadow: none !important;
+
+}
+
+/*section header 5*/
+.HyperMD-header-5,
+h5,
+h5,
+.markdown-rendered h5 {
+
+  text-shadow: none !important;
+
+}
+
+/*section header 6*/
+.HyperMD-header-6,
+h6,
+h6,
+.markdown-rendered h6 {
+
+  text-shadow: none !important;
+
+}
+
+.inline-title {
+  text-transform: none !important;
+}
+
+
+/*margin fix*/
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer {
+  margin-left: 15px;
+  margin-right: 5px;
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  margin-left: 15px;
+  margin-right: 5px;
+}
+
+/*section inline title*/
+.inline-title {
+  text-transform: none !important;
+}
+
+/*section header 1*/
+.HyperMD-header-1,
+h1,
+h1,
+.markdown-rendered h1 {
+  text-transform: none !important;
+}
+
+/*section header 2*/
+.HyperMD-header-2,
+h2,
+h2,
+.markdown-rendered h2 {
+
+  text-transform: none !important;
+}
+
+/*section header 3*/
+.HyperMD-header-3,
+h3,
+h3,
+.markdown-rendered h3 {
+
+  text-transform: none !important;
+}
+
+/*section header 4*/
+.HyperMD-header-4,
+h4,
+h4,
+.markdown-rendered h4 {
+
+  text-transform: none !important;
+}
+
+/*section header 5*/
+.HyperMD-header-5,
+h5,
+h5,
+.markdown-rendered h5 {
+
+  text-transform: none !important;
+}
+
+/*section header 6*/
+.HyperMD-header-6,
+h6,
+h6,
+.markdown-rendered h6 {
+  text-transform: none !important;
+}
